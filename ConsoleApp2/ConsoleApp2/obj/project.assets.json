@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NotMarc\\source\\repos\\ConsoleApp2\\ConsoleApp2\\FirstApp.csproj",
+      "projectUniqueName": "C:\\Users\\NotMarc\\OneDrive\\Documents\\GitHub\\Bankapp\\ConsoleApp2\\ConsoleApp2\\FirstApp.csproj",
       "projectName": "FirstApp",
-      "projectPath": "C:\\Users\\NotMarc\\source\\repos\\ConsoleApp2\\ConsoleApp2\\FirstApp.csproj",
+      "projectPath": "C:\\Users\\NotMarc\\OneDrive\\Documents\\GitHub\\Bankapp\\ConsoleApp2\\ConsoleApp2\\FirstApp.csproj",
       "packagesPath": "C:\\Users\\NotMarc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NotMarc\\source\\repos\\ConsoleApp2\\ConsoleApp2\\obj\\",
+      "outputPath": "C:\\Users\\NotMarc\\OneDrive\\Documents\\GitHub\\Bankapp\\ConsoleApp2\\ConsoleApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NotMarc\\AppData\\Roaming\\NuGet\\NuGet.Config",
