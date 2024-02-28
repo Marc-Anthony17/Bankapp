@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "ConsoleApp2\\Banking.cs",
               "ToolTip": "C:\\Users\\NotMarc\\OneDrive\\Documents\\GitHub\\Bankapp\\ConsoleApp2\\ConsoleApp2\\Banking.cs",
               "RelativeToolTip": "ConsoleApp2\\Banking.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAuwBoAAAAJAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAA3wDwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T13:05:47.153Z",
               "EditorCaption": ""
@@ -36,15 +36,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FirstApp",
+              "Title": "FirstApp.csproj",
               "DocumentMoniker": "C:\\Users\\NotMarc\\OneDrive\\Documents\\GitHub\\Bankapp\\ConsoleApp2\\ConsoleApp2\\FirstApp.csproj",
               "RelativeDocumentMoniker": "ConsoleApp2\\FirstApp.csproj",
               "ToolTip": "C:\\Users\\NotMarc\\OneDrive\\Documents\\GitHub\\Bankapp\\ConsoleApp2\\ConsoleApp2\\FirstApp.csproj",
               "RelativeToolTip": "ConsoleApp2\\FirstApp.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-28T13:05:44.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T13:05:44.195Z"
             }
           ]
         }
